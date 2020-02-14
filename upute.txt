@@ -1,0 +1,11 @@
+Napravite windows forms aplikaciju koja služi za igranje križiæ kružiæ igre izmeðu dva igraèa.
+Aplikacija se sastoji od jedne forme. Dva textboxa za unos imena igraèa, tipke za pokretanje igre
+te 9 readonly textboxa za prikaz matrice 3x3. Klikom na svaki textbox u matrici se upisuje 
+odgovarajuæe slovo X ili  O. Nakon svakog unosa potrebno je napraviti provjeru postoji li pobjednik.
+
+Npr. Matrica je indeksirana ovako:
+1 2 3
+4 5 6
+7 8 9
+
+Tada je pobjednik prvi igraè koji ima svoj znak u poljima 123, 456, 789, 147, 258, 369, 159 i 357
